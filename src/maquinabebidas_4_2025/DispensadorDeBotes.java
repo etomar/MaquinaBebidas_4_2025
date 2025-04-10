@@ -32,6 +32,7 @@ public DispensadorDeBotes (int i){
 /**Intenta dar un bote, devuelve true si es posible y falso
 si no hay botes 
  @param: Ninguna 
+ * //cambio
  @return: boolean, true si entrega el bote, en el caso de que no queden botes devuelve false
   */
 public boolean pulsarBoton (){
